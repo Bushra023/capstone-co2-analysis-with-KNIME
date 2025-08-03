@@ -12,15 +12,15 @@ To identify relationships between development indicators and CO₂ emissions per
 
 ## Project Structure
 capstone-co2-analysis/
-├── data/ 
-├── notebook/ # Jupyter Notebook for data cleaning and EDA
-│ └── co2_analysis.ipynb
-├── knime_project/ # KNIME workflow file
-│ └── co2_model.knwf
-├── presentation/ # Final presentation
-│ └── capstone_slides.pdf
-├── requirements.txt # Python packages used
-└── README.md # This file
+- data
+- notebook/ # Jupyter Notebook for data cleaning and EDA
+   - co2_analysis.ipynb
+- knime_project/ # KNIME workflow file
+   - co2_model.knwf
+- presentation/ # Final presentation
+   - capstone_slides.pdf
+- requirements.txt # Python packages used
+- README.md # This file
 
 ## Datasets
 
